@@ -1,0 +1,2 @@
+#Python Minor Projects
+These programs are designed to have simple functionalities that may only perform one or a few tasks. Some of these were developed to be solutions to problems/questions raised within Codecademy.com's Python track.
